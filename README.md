@@ -11,6 +11,17 @@ Convert from Daisy to html5
 
 	http://ekzemplaro.org/onyaku/koho_shimotsuke/
 
+3) How to convert
+
+	daisy_to_html5.sh folder_daisy folder_html5
+
+	After conversion
+
+		folder_html5/index.html is created.
+
+		Edit the path to js & css.
+
+		Move folder_html5 to http_server.
 
 -----------------------------------------------------------------------
 

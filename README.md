@@ -1,7 +1,8 @@
-						Nov/01/2014
+						Nov/07/2014
 
 Convert from Daisy to html5
 
+	Works fine on Ubuntu 14.10 & Arch Linux.
 
 1) Samples of daisy files
 
@@ -23,6 +24,15 @@ Convert from Daisy to html5
 
 		Move folder_html5 to http_server.
 
+4) Need to be pre installed
+
+	php5-cli
+
+	nkf
+
+	sox
+
+	libsox-fmt-mp3
 -----------------------------------------------------------------------
 
 The MIT License (MIT)
